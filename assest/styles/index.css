@@ -1,21 +1,21 @@
 /* BASE */
-@import url(base/_variable.css);
-@import url(base/_font-face.css);
-@import url(base/_reset.css);
-@import url(base/_utilities.css);
+@import url(base/variable.css);
+@import url(base/font-face.css);
+@import url(base/reset.css);
+@import url(base/utilities.css);
 
 /* Components */
-@import url(components/_menu.css);
-@import url(components/_cards.css);
+@import url(components/menu.css);
+@import url(components/cards.css);
 
 /* Layout */
-@import url(layouts/_blog.css);
-@import url(layouts/_header.css);
-@import url(layouts/_newCourses.css);
-@import url(layouts/_introCourses.css);
-@import url(layouts/_propertyCourses.css);
-@import url(layouts/_aboutUs.css);
-@import url(layouts/__footer.css);
+@import url(layouts/blog.css);
+@import url(layouts/header.css);
+@import url(layouts/newCourses.css);
+@import url(layouts/introCourses.css);
+@import url(layouts/propertyCourses.css);
+@import url(layouts/aboutUs.css);
+@import url(layouts/footer.css);
 
 
 

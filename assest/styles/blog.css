@@ -1,23 +1,23 @@
 /* BASE */
-@import url(base/_variable.css);
-@import url(base/_font-face.css);
-@import url(base/_reset.css);
-@import url(base/_utilities.css);
+@import url(base/variable.css);
+@import url(base/font-face.css);
+@import url(base/reset.css);
+@import url(base/utilities.css);
 
 /* Components */
-@import url(components/_menu.css);
-@import url(components/_breadcrumb.css);
-@import url(components/_sidebar.css);
-@import url(components/_pagination.css);
+@import url(components/menu.css);
+@import url(components/breadcrumb.css);
+@import url(components/sidebar.css);
+@import url(components/pagination.css);
 
 
 
 /* Layout */
-@import url(layouts/_header.css);
-@import url(layouts/__footer.css);
+@import url(layouts/header.css);
+@import url(layouts/footer.css);
 
 
 
 /* Pages */
-@import url(pages/_blog.css);
+@import url(pages/blog.css);
 
