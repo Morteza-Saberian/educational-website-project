@@ -1,0 +1,32 @@
+const router = {
+  404: {
+    template: "./404.html",
+    title: `پیدا نشد`,
+  },
+  "/": {
+    template: "./index.html",
+    title: `خانه`,
+  },
+  "/blog": {
+    template: "./blog.html",
+    title: `بلاگ`,
+  },
+  "/courses": {
+    template: "./courses.html",
+    title: `دوره‌ها`,
+  },
+  "/product": {
+    template: "./product.html",
+    title: `جزئیات دوره`,
+  },
+  "/article": {
+    template: "./article.html",
+    title: `مقاله`,
+  },
+  "/cart": {
+    template: "./cart.html",
+    title: `سبد خرید`,
+  },
+};
+
+export default router;
